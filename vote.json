@@ -1,0 +1,42 @@
+{
+  "debug": false,
+  "vote_max": 500,
+  "times_total": 2000,
+  "times_reload": 500,
+  "time_sleep_random_start": 15,
+  "time_sleep_random_end": 45,
+  "url": "http://photo.wangxiaogang.com/vote.ashx?id=502&hid=28225a55-05c6-4527-a771-c5c9c988a512",
+  "executable_path": "phantomjs.exe",
+  "savepath": ".txt",
+  "counts": [
+    {
+      "url": "http://photo.wangxiaogang.com/paihangbang.aspx",
+      "xpaths": [
+        {
+          "format": "①姓名:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[2]/td[2]/a"
+        },
+        {
+          "format": ",票数:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[2]/td[4]/a"
+        },
+        {
+          "format": ";②姓名:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[3]/td[2]/a"
+        },
+        {
+          "format": ",票数:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[3]/td[4]/a"
+        },
+        {
+          "format": ";③姓名:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[4]/td[2]/a"
+        },
+        {
+          "format": ",票数:%s",
+          "path": "//*[@id='GridView0']/tbody/tr[4]/td[4]/a"
+        }
+      ]
+    }
+  ]
+}
