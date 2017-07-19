@@ -1,0 +1,2 @@
+# PythonVote
+使用Python爬取代理ip刷票并且异步打印最新票数
