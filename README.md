@@ -10,4 +10,4 @@
 - "savepath": "保存的文件后缀名",
 - "counts": "异步需要打印的实时票数一些配置",
 
-phantomjs请自己下载
+phantomjs.exe请自己下载
