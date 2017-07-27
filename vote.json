@@ -5,12 +5,12 @@
   "times_reload": 500,
   "time_sleep_random_start": 15,
   "time_sleep_random_end": 45,
-  "url": "http://photo.wangxiaogang.com/vote.ashx?id=502&hid=28225a55-05c6-4527-a771-c5c9c988a512",
+  "url": "http://xxxx",
   "executable_path": "phantomjs.exe",
   "savepath": ".txt",
   "counts": [
     {
-      "url": "http://photo.wangxiaogang.com/paihangbang.aspx",
+      "url": "http://xxx/paihangbang",
       "xpaths": [
         {
           "format": "①姓名:%s",
