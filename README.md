@@ -10,5 +10,6 @@
 - "savepath": "保存的文件后缀名",
 - "counts": "异步需要打印的实时票数一些配置",
 
+#
 phantomjs.exe 下载地址：
 http://phantomjs.org/
